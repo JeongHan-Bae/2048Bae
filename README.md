@@ -24,7 +24,7 @@ Le jeu se termine lorsque le joueur atteint le score cible dans le mode choisi, 
 - Les joueurs doivent continuer à combiner les tuiles jusqu'à atteindre le score cible.
 - Le jeu se termine lorsque le joueur atteint le score cible dans le mode choisi, ou lorsque le tableau est rempli de tuiles et qu'aucun mouvement supplémentaire n'est possible.
 
-Voici le texte que vous pouvez ajouter pour encourager les autres développeurs à contribuer à votre jeu :
+Pour protéger les ordinateurs qui ne sont pas assez puissants, on a mis sleep(0.1) pour limiter la vitesse de joueur, vous pouvez l'enlever ou remplacer avec sleep(0.01) pour être plus rapide.
 
 ## Contribuer
 
